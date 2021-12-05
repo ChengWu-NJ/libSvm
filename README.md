@@ -1,7 +1,10 @@
-# libsvm-go: Support Vector Machine
 
-* forked from ewalker544/libsvm-go
+# libsvm: Support Vector Machine
+* forked from ewalker544/libsvm-go, and change repo name to libsvm
 * add go module file for golang high versions
+
+
+# libsvm-go: Support Vector Machine
 
 This is a full port of LIBSVM in the Go programming language.  [LIBSVM][1] is a suite of tools and an API library for support vector classification, regression, and distribution estimation.  This port implements the libsvm library in the form of a Go package called <code>libSvm</code>.  It also implements the <code>svm-train</code> and <code>svm-predict</code> command line tools.
 

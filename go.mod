@@ -1,3 +1,3 @@
-module github.com/ChengWu-NJ/libsvm
+module github.com/ChengWu-NJ/libSvm
 
 go 1.16

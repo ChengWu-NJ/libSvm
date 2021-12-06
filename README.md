@@ -1,6 +1,6 @@
 
-# libsvm: Support Vector Machine
-* forked from ewalker544/libsvm-go, and change repo name to libsvm
+# libSvm: Support Vector Machine
+* forked from ewalker544/libsvm-go, and change repo name to libSvm
 * add go module file for golang high versions
 
 
